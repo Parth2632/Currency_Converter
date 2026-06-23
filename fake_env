@@ -1,6 +1,6 @@
-# HuggingFace Token (Used to access the Qwen/Qwen2.5-7B-Instruct model)
-HF_TOKEN=your_huggingface_access_token_here
+# # HuggingFace Token (Used to access the Qwen/Qwen2.5-7B-Instruct model)
+# HF_TOKEN=your_huggingface_access_token_here
 
-# ExchangeRate-API Key (Used to fetch real-time conversion rates)
-# Get one at: https://www.exchangerate-api.com/
-RATE_EXCHANGE=your_exchangerate_api_key_here
+# # ExchangeRate-API Key (Used to fetch real-time conversion rates)
+# # Get one at: https://www.exchangerate-api.com/
+# RATE_EXCHANGE=your_exchangerate_api_key_here
